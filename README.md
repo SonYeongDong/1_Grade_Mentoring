@@ -33,7 +33,7 @@
 >브레드 보드 사용방법 및 아두이노, 센서, 전자회로에 대한 기초지식을 학습하고 있습니다.
 - 2018.04.13 : IR Sensor, Ultrasonic Wave Sensor, PWM Motor Control 학습 
 ## 향후 진행 방향 : Future Direction
->1st week : _IR센서, 초음파 센서, DC 모터(완료)_  
+>1st week : ~~IR센서, 초음파 센서, DC 모터(완료)~~   
 >2nd week : 서보 모터  
 >3th week : 스텝 모터  
 >4th week : FND/Piezo 부저/조도 센서  
